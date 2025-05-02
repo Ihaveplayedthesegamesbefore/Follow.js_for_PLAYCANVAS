@@ -10,7 +10,7 @@ Please support my work via my Kofi -> https://ko-fi.com/thebiblecodex and check 
 -Can parent models to the pseudocamera, allowing your models to follow the player.
 ---How to use this script---
 > To use this script, firstly apply the script to an entity (e.g, use a cube to make this easy)
-> After, you should check the inspector where the first box should be, where you can select which entity you want the object to follow (e.g, your player entity)
+> After, you should check the inspector , where you can select which entity you want the object to follow (e.g, your player entity)
 > Test by running the scene, all good?, Continue to the next step!
 > You might have seen a box inside of your picked entity, so do not fret; that was the pseudo-camera. To avoid this, please disable the rendering of your selected entity. You should only be seeing the cube.
 > Once done, run and test the scene!, Only seeing the cube?, You nailed it!
