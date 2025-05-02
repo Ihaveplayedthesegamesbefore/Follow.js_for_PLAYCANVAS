@@ -18,8 +18,8 @@ Please support my work via my Kofi -> https://ko-fi.com/thebiblecodex and check 
 > **HOW TO GET YOUR IMPORTED MODEL FOLLOWING YOU**
 > Firstly, get your imported model in the scene! (i.e, upload it to the assets tab by clicking the '+' sign and then, get it into the scene by right clicking 'root' in the hierarchy tab and clicking add template, and then search through the asset tab and click on your model)
 > Now with the model in the scene, you will have to parent it to the pseudo-camera (p.s. do not worry about your model existing in 2 different places or issues like that, already accounted for that)
-> Parent the model to the pseudo-camera by finding it in the inspector panel through your entity that has the script, select your model through the script (p.s. if your entity has child components, ensure the parent is selected!)
+> Parent the model to the pseudo-camera by finding it in the inspector panel through your entity that has the script, select your model through the script (p.s. if your model has child components, ensure the parent is selected!)
 > Run the scene to test, make sure to disable the collision of your model in the scene to avoid movement issues. All good? ok, but your entity seems to be facing the wrong way, eh?
-> In case your entity is facing wrongly or in the wrong place, you can easily edit it via the script through the inspector panel, tweak values till you get it right! edit the LOC,ROT and SCALE! :^)
+> In case your entity is facing wrongly or in the wrong place or the wrong SIZE?, you can easily edit it via the script through the inspector panel, tweak values till you get it right! edit the LOC,ROT and SCALE! :^)
 > And that's a wrap if you have any issues! DM me on playcanvas or mention me in a post -> https://forum.playcanvas.com/u/potatoindivdual/summary
 Thanks.
