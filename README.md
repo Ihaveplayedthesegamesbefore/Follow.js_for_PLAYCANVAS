@@ -12,7 +12,7 @@ Please support my work via my Kofi -> https://ko-fi.com/thebiblecodex and check 
 > To use this script, firstly apply the script to an entity (e.g, use a cube to make this easy)
 > After, you should check the inspector , where you can select which entity you want the object to follow (e.g, your player entity)
 > Test by running the scene, all good?, Continue to the next step!
-> You might have seen a box inside of your picked entity, so do not fret; that was the pseudo-camera. To avoid this, please disable the rendering of your selected entity. You should only be seeing the cube.
+> You might have seen a box inside of your picked entity, so do not fret; that was the pseudo-camera. To avoid this, please disable the rendering of your selected entity. You should only be seeing the cube(i.e the pseudo-camera)
 > Once done, run and test the scene!, Only seeing the cube?, You nailed it!
 
 > **HOW TO GET YOUR IMPORTED MODEL FOLLOWING YOU**
